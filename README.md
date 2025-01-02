@@ -1,6 +1,6 @@
 # PlusDemic
 
-This was a tutorial insights into using framer-motion.
+This was a tutorial insight into using framer-motion.
 
 # Live preview
 
