@@ -8,7 +8,7 @@ import Footer from "./components/footer/footer";
 
 const App = () => {
   return (
-    <main className="">
+    <main className="overflow-x-hidden">
       <Navbar />
       <Hero/>
       <HowItHelps/>
