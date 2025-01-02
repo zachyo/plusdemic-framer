@@ -1,8 +1,8 @@
-# React + Vite
+# PlusDemic
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This was a tutorial insight into using framer-motion.
 
-Currently, two official plugins are available:
+# Live preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is the live preview of the website.
+ [PlusDemic](https://framer-plusdemic.netlify.app/)
